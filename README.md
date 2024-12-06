@@ -42,3 +42,10 @@ This project is a browser-based **Drum Kit** built using **vanilla JavaScript**,
 - **Audio Files**: Pre-recorded drum sounds for realistic sound playback.
 
 ---
+
+## Acknowledgements
+
+This project was initially developed based on a tutorial from **[The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)** on Udemy. I would like to express my gratitude to the author, **Angela Yu**, for providing a strong foundation and clear guidance. 
+
+I have expanded upon the initial tutorial by adding new features, improving functionality, and making the project more interactive and engaging.
+
